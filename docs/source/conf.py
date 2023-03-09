@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Kendo'
+copyright = '2023, Programa Unificado de Bolsas'
+author = 'Tsuyoshi'
 
 release = '0.1'
 version = '0.1.0'
@@ -17,6 +17,8 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+    'sphinx.ext.autosectionlabel',
+    'myst_parser',
 ]
 
 intersphinx_mapping = {
@@ -33,3 +35,9 @@ html_theme = 'sphinx_rtd_theme'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
+
+# -- Auto-generated header anchors
+myst_heading_anchors = 3
+
+# Make sure the target is unique
+autosectionlabel_prefix_document = True

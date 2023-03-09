@@ -1,22 +1,10 @@
-Welcome to Lumache's documentation!
+Kendo na EACH: Guia para Iniciantes
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Este site foi criado com o objetivo de auxiliar as pessoas que estão participando do programa de iniciação ao Kendo na Escola de Artes, Ciências e Humanidades (EACH) da Universidade de São Paulo (USP).
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+O Kendo é uma arte marcial japonesa que enfatiza o uso do shinai, um tipo de espada de bambu, e a utilização de equipamentos de proteção, como o bogu, para a prática segura. O programa de iniciação ao Kendo na EACH visa apresentar aos alunos os fundamentos básicos dessa arte marcial e proporcionar a oportunidade de aprimorar suas habilidades.
 
-.. note::
+Este site foi desenvolvido com o objetivo de fornecer informações úteis e relevantes para os participantes do programa de iniciação ao Kendo na EACH. Aqui, os usuários encontrarão recursos para ajudá-los a entender melhor as técnicas e os conceitos básicos do Kendo, bem como informações sobre a história e a cultura do Kendo... note::
 
-   This project is under active development.
-
-Contents
---------
-
-.. toctree::
-
-   usage
-   api
+   Este documento está em desenvolvimento.
