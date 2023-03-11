@@ -17,7 +17,12 @@ Entre as informações que serão encontradas no site, estão:
     sections/voca.md
     sections/hist.md
 
-Esperamos que este site seja útil para todos os participantes do programa de Iniciação ao Kendo na EACH. Caso tenha alguma sugestão ou comentário, não hesite em entrar em contato conosco.
+Esperamos que este documento seja útil para todos os participantes do programa de Iniciação ao Kendo na EACH. Caso tenha alguma sugestão ou comentário, não hesite em entrar em contato conosco.
+
+Professora de Kendo: Marina Harumi Cruz Tsukamoto
+Monitores: Bruno Yudi Nakano e Gustavo Tsuyoshi Ariga
+E-mail para contato: kendo.eachusp@gmail.com
+Página do facebook: https://www.facebook.com/kendoeach
 
 .. note::
 
