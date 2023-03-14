@@ -12,16 +12,26 @@ O Kendo é uma arte marcial que se diferencia de outras artes marciais pela sua 
 
 ## Objetivo
 
-No Kendo, a coordenação é fundamental. Antes de colocar o bōgu, é preciso aprender a coordenar as mãos, os pés e os golpes. No entanto, não se deve esquecer da importância da etiqueta e da aparência, pois sem elas não se está realmente praticando Kendo.
+No Kendo, **a coordenação é fundamental**, é preciso aprender a coordenar as mãos, os pés e os golpes. No entanto, não se deve esquecer da importância da **etiqueta** e da **aparência**, pois sem elas não se está realmente praticando Kendo.
 
-Para ajudá-lo a alcançar seus objetivos, aqui está o que você deve focar antes de colocar o bōgu:
+Para ajudá-lo a alcançar seus objetivos, aqui está o que você deve focar:
 
-Haya Suburi é o seu primeiro objetivo. Seu sensei pode chamá-lo de chōyaku shōmen uchi, mas trata-se da mesma coisa com outro nome. Se você dominar essa técnica, terá dominado todos os suburi corretamente. Confira o artigo sobre Haya Suburi para obter mais informações.
+*Haya Suburi* é o seu primeiro objetivo. Se você dominar essa técnica, terá dominado todos os *suburi* corretamente. **Confira a seção sobre [*Haya Suburi*]() para obter mais informações**.
 
-Kirikaeshi é uma combinação de shōmen uchi e sayū men e requer boa coordenação. Assista ao vídeo "Different Kirikaeshi for Different Levels in Kendo" para ver como executar corretamente essa técnica. Kirikaeshi não é apenas um exercício de aquecimento; ele incorpora todos os elementos importantes do Kendo. Uma vez dominado, o seu Kendo irá melhorar muito.
+*Kirikaeshi* é uma combinação de *shōmen uchi* e *sayū men* e requer boa coordenação. Leia a seção sobre [*Kirikaeshi*]() para ver como executar corretamente essa técnica. Kirikaeshi não é apenas um exercício de aquecimento; ele incorpora todos os elementos importantes do Kendo. Uma vez dominado, o seu Kendo irá melhorar muito.
 
 Receber o Kirikaeshi corretamente prepara você para aprender o ōji waza (contra-ataque). Assista ao vídeo "A Practical Way to Receive KiriKaeshi" para mais informações.
 
-Haya Suburi e Kirikaeshi são as suas metas enquanto não está usando o bōgu. Idealmente, você deve ser capaz de dominá-las em três meses, mas pode levar mais tempo dependendo da sua situação. Lembre-se de que não se trata de velocidade, mas de aprender corretamente os movimentos.
+Haya Suburi e Kirikaeshi são as suas metas por enquanto. Lembre-se de que não se trata de velocidade, mas de aprender corretamente os movimentos. Aperfeiçoar e melhorar seus fundamentos é importante. As pessoas muitas vezes se apressam nos fundamentos, mas no futuro, você se encontrará voltando a eles porque pulou etapas importantes. Leve o seu tempo e não pule nada. Não importa o quão alto você suba no Kendo, você sempre irá revisitar os fundamentos. O objetivo é aperfeiçoar continuamente e melhorar as técnicas básicas para elevar as habilidades aplicadas.
 
-Aperfeiçoar e melhorar seus fundamentos é importante. As pessoas muitas vezes se apressam nos fundamentos, mas no futuro, você se encontrará voltando a eles porque pulou etapas importantes. Leve o seu tempo e não pule nada. Não importa o quão alto você suba no Kendo, você sempre irá revisitar os fundamentos. O objetivo é aperfeiçoar continuamente e melhorar as técnicas básicas para elevar as habilidades aplicadas.
+## Kata
+
+Um modelo desenvolvido modificando o bokuto-ni-yoru kendo kihon-waza keiko-ho para criar oportunidades de ataque e contra-ataque. Este modelo consiste em sete estágios de aprendizado e todo o conteúdo é aprendido sem o uso de armadura. Em cada estágio, são planejadas situações de aprendizado que encorajam os participantes a desenvolver sua compreensão da essência cultural do kendo em relação ao conteúdo de aprendizagem de cada estágio.
+
+- Estágio 1: Compreender a natureza interpessoal do kendo.
+- Estágio 2: Aprender táticas para criar oportunidades de ataque fazendo contato com o bokuto do oponente.
+- Estágio 3: Aprender táticas para criar oportunidades de ataque através de golpes diretos.
+- Estágio 4: Aprender táticas para criar oportunidades de ataque sem fazer contato com o bokuto do oponente.
+- Estágio 5: Aprender táticas para criar oportunidades de ataque a partir do tsubazeri-ai.
+- Estágio 6: Aprender táticas para criar oportunidades de contra-ataque atraindo o oponente para onde se deseja.
+- Estágio 7: Aprofundar a compreensão do processo de desenvolvimento futuro do kendo em armadura.

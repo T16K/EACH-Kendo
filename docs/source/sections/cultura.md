@@ -1,4 +1,4 @@
-# História e cultura
+# História e Cultura
 
 O Kendo é uma arte marcial japonesa que tem suas raízes no samurai swordsmanship, conhecido como kenjutsu. Durante o período feudal do Japão, os samurais precisavam ser habilidosos em espadas para proteger seus senhores e famílias. Com o tempo, o kenjutsu evoluiu para o Kendo moderno, que é praticado em todo o mundo.
 

@@ -10,19 +10,19 @@ Este documento foi desenvolvido com o objetivo de fornecer informações úteis 
 Entre as informações que serão encontradas no site, estão:
 
 .. toctree::
-    :maxdepth: 1
+    :maxdepth: 2
 
     sections/intro
-    sections/tec.md
-    sections/voca.md
-    sections/hist.md
+    sections/treino.md
+    sections/termos.md
+    sections/cultura.md
 
 Esperamos que este documento seja útil para todos os participantes do programa de Iniciação ao Kendo na EACH. Caso tenha alguma sugestão ou comentário, não hesite em entrar em contato conosco.
 
-Professora de Kendo: Marina Harumi Cruz Tsukamoto
-Monitores: Bruno Yudi Nakano e Gustavo Tsuyoshi Ariga
-E-mail para contato: kendo.eachusp@gmail.com
-Página do facebook: https://www.facebook.com/kendoeach
+- Professora de Kendo: Marina Harumi Cruz Tsukamoto
+- Monitores: Bruno Yudi Nakano e Gustavo Tsuyoshi Ariga
+- E-mail para contato: kendo.eachusp@gmail.com
+- Página do facebook: https://www.facebook.com/kendoeach
 
 .. note::
 
