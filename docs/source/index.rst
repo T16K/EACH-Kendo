@@ -10,7 +10,7 @@ Este documento foi desenvolvido com o objetivo de fornecer informações úteis 
 Entre as informações que serão encontradas no site, estão:
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 1
 
     sections/intro
     sections/treino.md

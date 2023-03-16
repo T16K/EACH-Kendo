@@ -20,13 +20,41 @@ Para ajudá-lo a alcançar seus objetivos, aqui está o que você deve focar:
 
 *Kirikaeshi* é uma combinação de *shōmen uchi* e *sayū men* e requer boa coordenação. Leia a seção sobre [*Kirikaeshi*]() para ver como executar corretamente essa técnica. Kirikaeshi não é apenas um exercício de aquecimento; ele incorpora todos os elementos importantes do Kendo. Uma vez dominado, o seu Kendo irá melhorar muito.
 
-Receber o Kirikaeshi corretamente prepara você para aprender o ōji waza (contra-ataque). Assista ao vídeo "A Practical Way to Receive KiriKaeshi" para mais informações.
+Receber o Kirikaeshi corretamente prepara você para aprender o *ōji waza* (contra-ataque). Leia a seção sobre [*Kirikaeshi*]() para mais informações.
 
 Haya Suburi e Kirikaeshi são as suas metas por enquanto. Lembre-se de que não se trata de velocidade, mas de aprender corretamente os movimentos. Aperfeiçoar e melhorar seus fundamentos é importante. As pessoas muitas vezes se apressam nos fundamentos, mas no futuro, você se encontrará voltando a eles porque pulou etapas importantes. Leve o seu tempo e não pule nada. Não importa o quão alto você suba no Kendo, você sempre irá revisitar os fundamentos. O objetivo é aperfeiçoar continuamente e melhorar as técnicas básicas para elevar as habilidades aplicadas.
 
+### Tandoku Dōsa (Treinamento Sozinho)
+
+Primeiramente, é importante aprender os movimentos básicos sem ter um parceiro. Isso inclui:
+
+- [*Reigi-Saho*](): Etiqueta / Boas maneiras
+- [*Shizentai*](): Uma postura que todos devemos aprender no início
+- *Taito*: Colocando sua espada
+- Como sentar em *seiza*
+- *Chudan*: Como executar o *chudan* e guardar sua espada
+- Movimentação dos pés: *suri ashi*, *okuri ashi*, *hiraki ashi*, *ayumi ashi*, *tsugi ashi*
+- *Suburi*: *joge buri*, *naname (sayu) joge buri*
+- *Men Uchi*: *san-kyodo*, *ni-kyodo*, *ikkyodo*
+- *Kote Uchi*: *san-kyodo*, *ni-kyodo*, *ikkyodo*
+- *Do Uchi*: *san-kyodo*, *ni-kyodo*, *ikkyodo* (apenas o golpe do lado direito)
+- *Ni Dan Uchi*: *zenshin kotai shomen uchi*, *niho zenshin niho kotai shomen uchi*, *kote-men*, *kote-do*
+- *Sayu Men Uchi*
+- *Fumikomi*
+- *Haya Suburi*
+
+### Sōtai Dōsa (Treinamento em Pares)
+
+Depois de aprender o treinamento sozinho, podemos fazer treinamento em pares:
+
+- Mudando de Direção
+- *Shomen Uchi*
+- *Ni Dan Uchi*
+- *Uchikomi Kirikaeshi*
+
 ## Kata
 
-Um modelo desenvolvido modificando o bokuto-ni-yoru kendo kihon-waza keiko-ho para criar oportunidades de ataque e contra-ataque. Este modelo consiste em sete estágios de aprendizado e todo o conteúdo é aprendido sem o uso de armadura. Em cada estágio, são planejadas situações de aprendizado que encorajam os participantes a desenvolver sua compreensão da essência cultural do kendo em relação ao conteúdo de aprendizagem de cada estágio.
+Durante esse semestre vamos trabalhar um modelo desenvolvido modificando o *bokuto-ni-yoru kendo kihon-waza keiko-ho* para criar oportunidades de ataque e contra-ataque. Este modelo consiste em sete estágios de aprendizado e todo o conteúdo é aprendido sem o uso de armadura. Em cada estágio, são planejadas situações de aprendizado que encorajam os participantes a desenvolver sua compreensão da essência cultural do kendo em relação ao conteúdo de aprendizagem de cada estágio.
 
 - Estágio 1: Compreender a natureza interpessoal do kendo.
 - Estágio 2: Aprender táticas para criar oportunidades de ataque fazendo contato com o bokuto do oponente.
