@@ -28,8 +28,8 @@ Haya Suburi e Kirikaeshi são as suas metas por enquanto. Lembre-se de que não 
 
 Primeiramente, é importante aprender os movimentos básicos sem ter um parceiro. Isso inclui:
 
-- [*Reigi-Saho*](): Etiqueta / Boas maneiras
-- [*Shizentai*](): Uma postura que todos devemos aprender no início
+- [*Reigi-Saho*](https://iniciacao-ao-kendo.readthedocs.io/en/latest/sections/treino.html#etiquetas-e-boas-maneiras-no-kendo): Etiqueta / Boas maneiras
+- [*Shizentai*](https://iniciacao-ao-kendo.readthedocs.io/en/latest/sections/treino.html#shizentai-nao-e-uma-postura-totalmente-natural): Uma postura que todos devemos aprender no início
 - *Taito*: Colocando sua espada
 - Como sentar em *seiza*
 - *Chudan*: Como executar o *chudan* e guardar sua espada
@@ -54,7 +54,7 @@ Depois de aprender o treinamento sozinho, podemos fazer treinamento em pares:
 
 ## Kata
 
-Durante esse semestre vamos trabalhar um modelo desenvolvido modificando o *bokuto-ni-yoru kendo kihon-waza keiko-ho* para criar oportunidades de ataque e contra-ataque. Este modelo consiste em sete estágios de aprendizado e todo o conteúdo é aprendido sem o uso de armadura. Em cada estágio, são planejadas situações de aprendizado que encorajam os participantes a desenvolver sua compreensão da essência cultural do kendo em relação ao conteúdo de aprendizagem de cada estágio.
+Durante este semestre, iremos trabalhar em um modelo desenvolvido a partir da modificação do *Bokuto-ni-yoru Kendo Kihon-waza Keiko-ho*, para criar oportunidades de ataque e contra-ataque. Este modelo consiste em sete estágios de aprendizado e todo o conteúdo é aprendido sem o uso de armadura. Em cada estágio, serão planejadas situações de aprendizado que encorajam os participantes a desenvolver sua compreensão da essência cultural do kendo em relação ao conteúdo de aprendizagem de cada estágio.
 
 - Estágio 1: Compreender a natureza interpessoal do kendo.
 - Estágio 2: Aprender táticas para criar oportunidades de ataque fazendo contato com o bokuto do oponente.
