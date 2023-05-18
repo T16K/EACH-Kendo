@@ -29,6 +29,7 @@ Método:
 O estudante deve permanecer nessa posição por uma respiração e depois voltar à postura ereta calmamente.
 
 Nota:
+
 - Certifique-se de se inclinar para frente sem projetar o pescoço para fora ou dobrar os joelhos.
 - Garanta que as mãos pendam naturalmente, mantendo contato com o lado do corpo.
 
@@ -37,9 +38,65 @@ Nota:
 A saudação a partir da posição sentada (seiza) é chamado de zarei. 
 
 Método:
-Observe o oponente enquanto sentado em seiza.
-Mantendo as costas retas, incline-se para a frente a partir dos quadris e, simultaneamente, deslize ambas as mãos até o chão.
-Dobre os cotovelos enquanto a cabeça é abaixada. Permaneça nessa posição durante a duração de uma respiração e, em seguida, retorne calmamente à postura ereta de seiza enquanto observa o oponente.
+
+- Observe o oponente enquanto sentado em seiza.
+- Mantendo as costas retas, incline-se para a frente a partir dos quadris e, simultaneamente, deslize ambas as mãos até o chão.
+- Dobre os cotovelos enquanto a cabeça é abaixada. Permaneça nessa posição durante a duração de uma respiração e, em seguida, retorne calmamente à postura ereta de seiza enquanto observa o oponente.
+
 Nota:
-Quando o corpo está prostrado, as costas devem estar perfeitamente retas. Tome cuidado para não mostrar o pescoço ou empinar o traseiro. 
-As mãos devem tocar o chão e serem retiradas juntas.
+
+- Quando o corpo está prostrado, as costas devem estar perfeitamente retas. Tome cuidado para não mostrar o pescoço ou empinar o traseiro. 
+- As mãos devem tocar o chão e serem retiradas juntas.
+
+## Seiza
+
+Sentar na posição formal de joelhos com postura ereta e os pés arrumados sob o traseiro é chamado de seiza.
+
+Método:
+
+- A boca deve estar fechada enquanto se concentra intensamente em frente.
+- Ambas as mãos são apoiadas naturalmente nas coxas.
+- Ambos os joelhos devem ser separados por uma ou duas larguras de punho.
+- Ambos os pés devem estar alinhados ou com o dedão do pé direito colocado sobre o esquerdo. 
+- O glúteo deve descansar sobre os calcanhares.
+
+Nota: 
+
+- Tenha a sensação de empurrar os quadris ligeiramente para frente e manter a tensão no seika-tanden (região abdominal inferior abaixo do umbigo). 
+- Certifique-se de que tenha as costas retas. 
+- Os ombros devem estar relaxados, o queixo recolhido e o pescoço mantido reto. 
+- Respire silenciosamente.
+
+## Sentar e Levantar
+
+A forma normal de sentar e levantar no kendo é sentar-se a partir do pé esquerdo e levantar-se a partir do pé direito (saza-uki).
+
+### Sentar
+
+Método:
+
+- Olhe em frente com postura ereta ao se preparar para sentar.
+- Primeiro, recue o pé esquerdo meio passo e, em seguida, coloque o joelho esquerdo no chão enquanto mantém os dedos dos pés em pé.
+- Em seguida, puxe o pé direito de volta meio passo da mesma maneira e coloque o joelho direito ao lado do esquerdo.
+- Ambos os pés devem estar nivelados, ou com o dedão do pé direito colocado sobre o esquerdo enquanto o topo dos pés são colocados no chão. Os joelhos estão completamente dobrados enquanto os glúteos descansam sobre os calcanhares de ambos os pés.
+
+Nota: 
+
+- Certifique-se de não tocar o chão com as mãos ao sentar-se. 
+- Ao sentar-se em um movimento suave, puxe os ombros levemente para trás para manter uma postura ereta do corpo superior. 
+- Não coloque imediatamente o topo dos pés no chão. Os dedos dos pés de ambos os pés são mantidos juntos na posição vertical, os joelhos devem estar completamente dobrados enquanto o topo dos pés entra em contato com o chão.
+
+### Levantar
+
+Método:
+
+- Fique com os dedos dos pés levantados mantendo ambos os joelhos no chão.
+- Levante os quadris mantendo os dedos dos pés de ambos os pés na posição vertical.
+- Dê meio passo para a frente a partir do pé direito.
+- Continue a se levantar dando um meio passo para frente com o pé esquerdo.
+
+Nota: 
+
+- Certifique-se de não tocar o chão com as mãos ao levantar-se. 
+- Quando os dedos dos pés estão em pé, levante o corpo superior mantendo as costas retas. 
+- Ao levantar-se em um movimento suave, puxe os ombros levemente para trás para manter uma postura ereta do corpo superior.
