@@ -12,7 +12,7 @@ Entre as informações que serão encontradas no site, estão:
 .. toctree::
     :maxdepth: 1
 
-    sections/intro
+    sections/intro.md
     sections/treino.md
     sections/termos.md
     sections/cultura.md
