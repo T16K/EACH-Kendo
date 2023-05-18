@@ -23,7 +23,7 @@ Os elementos necessários para dominar as técnicas e habilidades do kendo inclu
 
 Shizentai é a postura de kendo que forma a base para as posturas de combate (kamae). A partir do shizentai, é possível responder aos movimentos do oponente de forma rápida e livre. Shizentai corresponde ao que é considerado "boa postura".
 
-#### Método e Pontos Importantes:
+#### Método e Pontos Importantes
 
 - Mantenha o pescoço reto e puxe o queixo para dentro. 
 - Mantenha os ombros baixos e as costas retas. 
@@ -42,7 +42,7 @@ Há cinco kamae básicos no kendo: chudan, jodan, gedan, hassô e wakigamae, cad
 
 Chudan-no-kamae forma a base para todos os outros kamae e é o mais eficaz para responder às várias mudanças nos movimentos ofensivos e defensivos do oponente. Este é o kamae predominante usado no kendo moderno.
 
-#### Método (segurando o shinai):
+#### Método (segurando o shinai)
 
 - A maneira correta de segurar um shinai é primeiro segurar a parte inferior do tsuka-gashira firmemente por cima com o dedo mindinho da mão esquerda. O dedo mindinho e o anelar devem agarrar o tsuka com firmeza, o dedo médio levemente e o dedo indicador e polegar envolvidos suavemente.
 - Semelhante à mão esquerda, coloque a mão direita no tsuka com o dedo mindinho e o anelar segurando com firmeza, o dedo médio levemente e o dedo indicador e o polegar tocando suavemente. A mão direita deve ficar um pouco separada do tsuba.

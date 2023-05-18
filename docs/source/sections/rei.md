@@ -20,7 +20,7 @@ O kendo utiliza tanto o ritsurei (saudação em pé) quanto o zarei (saudação 
 
 A saudação enquanto está de pé é chamada de "ritsurei". Tradicionalmente, havia três ângulos nos quais o ritsurei era realizado, dependendo da situação. A inclinação para o shinzen ou altar era de 45 graus, 30 graus para o instrutor e 15 graus para os colegas. Agora, todas as inclinações para o shinzen (ou shomen, kamiza, joseki) e instrutores são de 30 graus, e as inclinações mútuas para colegas são de 15 graus.
 
-Método:
+### Método
 
 1. Fique em pé e observe o oponente.
 2. Ao inclinar-se para o shinzen (shomen, joseki), mantenha as costas retas e incline o corpo superior nos quadris em um ângulo de 30 graus.
@@ -28,7 +28,7 @@ Método:
 
 O estudante deve permanecer nessa posição por uma respiração e depois voltar à postura ereta calmamente.
 
-Nota:
+### Nota
 
 - Certifique-se de se inclinar para frente sem projetar o pescoço para fora ou dobrar os joelhos.
 - Garanta que as mãos pendam naturalmente, mantendo contato com o lado do corpo.
@@ -37,13 +37,13 @@ Nota:
 
 A saudação a partir da posição sentada (seiza) é chamado de zarei. 
 
-Método:
+### Método
 
 - Observe o oponente enquanto sentado em seiza.
 - Mantendo as costas retas, incline-se para a frente a partir dos quadris e, simultaneamente, deslize ambas as mãos até o chão.
 - Dobre os cotovelos enquanto a cabeça é abaixada. Permaneça nessa posição durante a duração de uma respiração e, em seguida, retorne calmamente à postura ereta de seiza enquanto observa o oponente.
 
-Nota:
+### Nota
 
 - Quando o corpo está prostrado, as costas devem estar perfeitamente retas. Tome cuidado para não mostrar o pescoço ou empinar o traseiro. 
 - As mãos devem tocar o chão e serem retiradas juntas.
@@ -52,7 +52,7 @@ Nota:
 
 Sentar na posição formal de joelhos com postura ereta e os pés arrumados sob o traseiro é chamado de seiza.
 
-Método:
+### Método
 
 - A boca deve estar fechada enquanto se concentra intensamente em frente.
 - Ambas as mãos são apoiadas naturalmente nas coxas.
@@ -60,7 +60,7 @@ Método:
 - Ambos os pés devem estar alinhados ou com o dedão do pé direito colocado sobre o esquerdo. 
 - O glúteo deve descansar sobre os calcanhares.
 
-Nota: 
+### Nota 
 
 - Tenha a sensação de empurrar os quadris ligeiramente para frente e manter a tensão no seika-tanden (região abdominal inferior abaixo do umbigo). 
 - Certifique-se de que tenha as costas retas. 
@@ -73,14 +73,14 @@ A forma normal de sentar e levantar no kendo é sentar-se a partir do pé esquer
 
 ### Sentar
 
-Método:
+#### Método
 
 - Olhe em frente com postura ereta ao se preparar para sentar.
 - Primeiro, recue o pé esquerdo meio passo e, em seguida, coloque o joelho esquerdo no chão enquanto mantém os dedos dos pés em pé.
 - Em seguida, puxe o pé direito de volta meio passo da mesma maneira e coloque o joelho direito ao lado do esquerdo.
 - Ambos os pés devem estar nivelados, ou com o dedão do pé direito colocado sobre o esquerdo enquanto o topo dos pés são colocados no chão. Os joelhos estão completamente dobrados enquanto os glúteos descansam sobre os calcanhares de ambos os pés.
 
-Nota: 
+#### Nota 
 
 - Certifique-se de não tocar o chão com as mãos ao sentar-se. 
 - Ao sentar-se em um movimento suave, puxe os ombros levemente para trás para manter uma postura ereta do corpo superior. 
@@ -88,14 +88,14 @@ Nota:
 
 ### Levantar
 
-Método:
+#### Método
 
 - Fique com os dedos dos pés levantados mantendo ambos os joelhos no chão.
 - Levante os quadris mantendo os dedos dos pés de ambos os pés na posição vertical.
 - Dê meio passo para a frente a partir do pé direito.
 - Continue a se levantar dando um meio passo para frente com o pé esquerdo.
 
-Nota: 
+#### Nota 
 
 - Certifique-se de não tocar o chão com as mãos ao levantar-se. 
 - Quando os dedos dos pés estão em pé, levante o corpo superior mantendo as costas retas. 
