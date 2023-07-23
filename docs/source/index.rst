@@ -15,6 +15,7 @@ Entre as informações que serão encontradas no site, estão:
     sections/intro.md
     sections/rei.md
     sections/dosa.md
+    sections/test.html
 
 Esperamos que este documento seja útil para todos os participantes do programa de Iniciação ao Kendo na EACH. Caso tenha alguma sugestão ou comentário, não hesite em entrar em contato conosco.
 
