@@ -1,23 +1,19 @@
-# Introdução
+# UMA COMPARAÇÃO DE CIRCUNSTÂNCIAS
 
-As origens do kendo podem ser traçadas até a criação da espada japonesa (Nihon-to). A esgrima japonesa evoluiu ao longo de muitos séculos. Refinada como um sistema de combate durante o período Sengoku (1467-1568), a esgrima tornou-se cada vez mais artística durante o pacífico período Edo (1600-1868) e, posteriormente, assumiu uma forma esportiva mais competitiva no início do século XIX. Os valores do kendo mudaram ao longo de sua evolução e hoje é altamente estimado como patrimônio cultural do Japão. O século XVIII foi um período particularmente importante na história do kendo com a utilização de equipamentos de proteção e espadas de bambu (shinai). A introdução e melhoria gradual desses equipamentos permitiram o treinamento de contato total (shinai-uchikomi-keiko) e a participação em partidas competitivas, além de facilitar sua transição para um meio de educação pessoal - um aspecto tradicional que ainda é enfatizado hoje.
+## Introdução
 
-## O Conceito de Kendo
+Neste primeiro capítulo, descreverei como o kendo é praticado no Japão, com base na minha experiência e observações, e utilizarei isso como base para abordar alguns pontos que precisam ser considerados ao praticar e ensinar kendo em países ocidentais.
 
-O conceito de kendo é disciplinar o caráter humano através da aplicação dos princípios da katana (espada).
+## Como o Kendo é Praticado no Japão
 
-## O Objetivo de Praticar Kendo
+Muitas pessoas no Japão começam a praticar kendo quando ainda estão no ensino fundamental (entre 6 e 12 anos de idade) ou no ensino médio (entre 12 e 15 anos de idade). No ensino fundamental, a maioria dos alunos de kendo pratica entre uma hora e meia e duas horas por sessão em seus dōjōs locais, com uma média de duas ou três vezes por semana. Os alunos do ensino fundamental passam muito tempo treinando as técnicas fundamentais, ou seja, o kihon-geiko.
 
-O objetivo de praticar kendo é: 
-Moldar a mente e o corpo, 
-Cultivar um espírito vigoroso, 
-E através de treinamento correto e rígido, 
-Esforçar-se para melhorar na arte do kendo, 
-Valorizar a cortesia e a honra humanas, 
-Conviver com os outros com sinceridade, 
-E buscar sempre o cultivo de si mesmo. 
-Isso permitirá que se possa: 
-Amar o seu país e a sociedade, 
-Contribuir para o desenvolvimento da cultura, 
-E promover a paz e a prosperidade entre todos os povos. 
-(Estabelecido em 20 de março de 1975)
+No ensino médio, os alunos geralmente praticam no clube de kendo da escola, além de frequentarem um dōjō local. No entanto, os alunos que começam a praticar kendo pela primeira vez no ensino médio, em sua maioria, treinam apenas no clube de kendo da escola. No sistema escolar japonês, as escolas de ensino médio são frequentemente afiliadas a uma escola de ensino superior, o que proporciona aos alunos de ambos os níveis oportunidades de treinar juntos. O regime de treinamento, nessa fase, torna-se cada vez mais intensivo, com muitos clubes praticando mais de cinco vezes por semana. Alunos de alto nível já terão alcançado um nível técnico e tático bastante elevado. Além disso, apesar da pouca idade, alguns alunos decidem se concentrar exclusivamente no kendo como uma carreira, em vez de algo para "curtir", negligenciando, assim, outras atividades, como os estudos.
+
+No ensino médio (entre 15 e 18 anos de idade), a maioria dos alunos pratica apenas nos clubes de suas escolas. Sem dúvida, os clubes escolares são onde os treinamentos mais difíceis e extenuantes são realizados. A maioria dos clubes pratica mais de cinco ou seis vezes por semana e participa de um regime rigoroso de treinamento que beira o limite da resistência física. Além dos repetidos kihon-geiko, eles praticam rakari-geiko várias vezes, pois é amplamente aceito que este é o método mais eficaz para o aprimoramento. Nos clubes escolares fortes, os alunos são obrigados a assumir um compromisso muito sério com a vida no clube de kendo. De fato, isso não se aplica apenas aos alunos, mas também aos pais, que são esperados a fornecer apoio moral e logístico tanto quanto possível. A intensidade do treinamento dos alunos da mesma faixa etária que não pertencem a clubes escolares, mas que praticam apenas em dōjōs locais, não se compara em termos de intensidade, sendo geralmente considerado como um hobby.
+
+Houve muitas críticas dirigidas às metodologias de ensino do kendo no ensino médio, bem como ao estilo de luta excessivamente competitivo. Para citar alguns exemplos, os instrutores de kendo do ensino médio foram fortemente criticados por forçar seus alunos a praticarem demais, sem lhes dar descanso suficiente ou a oportunidade de se reidratar, além de focarem na vitória a qualquer custo. Da mesma forma, os alunos são criticados por seu estilo desorganizado de engajamento, que ignora o controle da linha central (chūshin) e se concentra apenas em golpear os oponentes com base na velocidade, utilizando técnicas não ortodoxas ou antiéticas para marcar pontos.
+
+Quando os alunos do ensino médio progridem para a universidade, é necessário fazer uma conversão qualitativa do chamado "kendo de ensino médio" para o "kendo universitário". Em outras palavras, espera-se que evoluam do "kendo rápido" para um estilo baseado na tentativa de golpear através da dominação do chūshin. Além disso, a responsabilidade muda drasticamente, e os pais não desempenham mais nenhum papel, além de enviar dinheiro para aluguel e alimentação!
+
+No nível universitário, o planejamento e a organização do treinamento e dos torneios ficam inteiramente a cargo dos alunos. A duração e a frequência do keiko variam entre as universidades. Alguns clubes universitários têm mais de cem membros e treinam quase todos os dias. Algumas universidades treinam duas vezes por dia, com asa-geiko (treino matinal) e keiko à noite. Muitas vezes, a atenção do instrutor será direcionada aos alunos que ingressaram na universidade com bolsas de estudo esportivas, com base em seus resultados excepcionais no shiai (competição) no ensino médio. Alunos comuns geralmente não têm oportunidade de participar de torneios importantes durante o período universitário. Por outro lado, há universidades que não têm alunos talentosos com bolsas de estudo em kendo, mas, através de treinos árduos, conseguem melhorar significativamente seu kendo e, ocasionalmente, vencem universidades mais fortes, mesmo sendo azarões. É sempre emocionante ver isso acontecer.

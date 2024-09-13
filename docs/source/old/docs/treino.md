@@ -6,9 +6,6 @@ As técnicas e movimentos básicos do Kendo são fundamentais para o desenvolvim
 
 ### Etiquetas e Boas Maneiras no Kendo
 
-![sit](../../../img/sit.png)
-
-
 Sempre que ou onde quer que você treine kendo, é importante seguir certas etiquetas e boas maneiras. No kendo, temos [regras específicas sobre o que fazer ou não fazer em um dojo]() (lugar de treinamento).
 
 Quais são essas etiquetas e boas maneiras (*reigi-saho*)? Basicamente, elas são para "**mostrar respeito**". Lembre-se que o kendo é o caminho da espada. Buscamos seguir o caminho. Talvez precisemos começar definindo [o que é o caminho]() para que todos estejam na mesma página.
