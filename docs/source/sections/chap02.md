@@ -2,15 +2,19 @@
 
 ## Introdução
 
-Neste capítulo, apresentarei minhas ideias sobre *ashi-sabaki* (movimento dos pés) e cortes. Esses são os primeiros conceitos que os iniciantes aprendem e são elementos essenciais até mesmo para os praticantes experientes continuarem praticando.
+Neste capítulo, apresentarei minhas ideias sobre ashi-sabaki (movimento dos pés) e cortes. Esses são os primeiros conceitos que os iniciantes aprendem e são elementos essenciais até mesmo para os praticantes experientes continuarem praticando.
 
 ## Ashi-Sabaki
 
-Existem quatro tipos básicos de ashi-sabaki no kendo. Eles são chamados de ayumi-ashi, okuri-ashi, hiraki-ashi e tsugi-ashi (veja a Figura 1). Em primeiro lugar, é importante que o instrutor forneça uma imagem clara de como dominar o movimento dos pés está intrinsecamente ligado a aspectos mais avançados do treinamento, como waza-geiko (prática de técnicas), ji-geiko (sparring) e shiai (competições). Os instrutores devem demonstrar claramente os vários movimentos e fazer com que seus alunos compreendam a relação entre cada tipo de movimento dos pés e as circunstâncias em que cada um é empregado.
+Existem quatro tipos básicos de ashi-sabaki no kendo. Eles são chamados de ayumi-ashi, okuri-ashi, hiraki-ashi e tsugi-ashi (veja a Figura 1). Em primeiro lugar, é importante que o instrutor forneça uma imagem clara de como dominar o movimento dos pés está intrinsecamente ligado a aspectos mais avançados do treinamento, como waza-geiko (prática de técnicas), ji-geiko (*sparring*) e shiai (competições). Os instrutores devem demonstrar claramente os vários movimentos e fazer com que seus alunos compreendam a relação entre cada tipo de movimento dos pés e as circunstâncias em que cada um é empregado.
 
 Figura 1
+
 ![Figura 1](../../../img/01.png)
 ![Figura 2](../../../img/02.png)
+![Figura 3](../../../img/03.png)
+![Figura 4](../../../img/04.png)
+![Figura 5](../../../img/05.png)
 
 ## O Problema
 
