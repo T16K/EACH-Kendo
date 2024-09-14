@@ -22,6 +22,7 @@ Entre as informações que serão encontradas no site, estão:
 
     sections/chap01.md
     sections/chap02.md
+    sections/chap03.md
 
 Espero que este documento seja útil para todos os praticantes de Kendo. Caso tenha alguma sugestão ou comentário, não hesite em entrar em contato com o Bunko.
 
