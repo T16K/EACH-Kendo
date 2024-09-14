@@ -58,3 +58,7 @@ Figura 2
 
 ![Figura 6](../../../img/06.png)
 ![Figura 7](../../../img/07.png)
+
+## Resumo
+
+Neste capítulo, apresentei minhas ideias para a prática e o ensino do ashi-sabaki e da fundamental ação de corte. Não descrevi os aspectos técnicos de cada exercício em grande detalhe, pois minha intenção foi mostrar métodos de prática e ensino de movimentação e corte que estão interligados e também são relevantes para o keiko. No próximo capítulo, apresentarei maneiras de praticar e ensinar fumikomi e hikitsuke para pessoas que começam o kendo mais tarde na vida ou que têm problemas nos joelhos. Ambas as situações são frequentemente encontradas em países ocidentais. Além disso, oferecerei algumas sugestões sobre como manter a prática do kendo livre de lesões.
