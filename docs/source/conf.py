@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'Kendo'
-copyright = '2023, Programa Unificado de Bolsas'
+copyright = '2024, Bunkyo Kendo'
 author = 'Tsuyoshi'
 
 release = '0.1'

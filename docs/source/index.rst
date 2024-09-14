@@ -24,9 +24,8 @@ Entre as informações que serão encontradas no site, estão:
 
 Espero que este documento seja útil para todos os praticantes de Kendo. Caso tenha alguma sugestão ou comentário, não hesite em entrar em contato com o Bunko.
 
-- Sensei Responsável:
-- E-mail para contato:
-- Página do facebook:
+- Instagram: @bunkyokendo.sp
+- Endereço: Rua Galvão Bueno, 540, Liberdade - SP
 
 .. note::
 
